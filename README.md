@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/arunkumawatak/react_portfolio/main/public/og-image.jpg" alt="Arun Kumawat" width="200" style="border-radius: 50%;"/>
+  <img src="![WhatsApp Image 2026-04-07 at 11 55 00 PM](https://github.com/user-attachments/assets/cfb97a37-5722-487c-80eb-45ec3b5b5186)" alt="Arun Kumawat" width="200" style="border-radius: 50%;"/>
 
   <h1>Hi there, I'm Arun Kumawat 👋</h1>
 
