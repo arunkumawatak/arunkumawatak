@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Profile Picture - Replace with your own image URL -->
+  <!-- Profile Picture -->
   <img src="https://github.com/user-attachments/assets/cfb97a37-5722-487c-80eb-45ec3b5b5186" 
        alt="Arun Kumawat" 
        width="200" 
@@ -68,18 +68,21 @@ Currently focused on delivering **high-quality, maintainable code** that drives 
 
 Check out my **[full portfolio](https://arunkumawatak.github.io/react_portfolio)** for in-depth case studies.
 
-### 📈 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkumawatak&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumawatak&theme=dark&hide_border=true" alt="Streak Stats" />
-</div>
+### 📈 Current Activity
+
+- **Actively contributing** in April 2026 (19+ commits to react_portfolio)
+- Building modern Flutter apps and improving my React portfolio
+- Focused on clean code, performance, and real-world product impact
+
+**See my live GitHub contributions:** [github.com/arunkumawatak](https://github.com/arunkumawatak)
 
 ---
 
 ### 🌟 Let's Connect
 
-I'm always open to interesting opportunities, collaborations, or just a good tech discussion.
+I'm always open to interesting opportunities, collaborations, or tech discussions.
 
 - **Portfolio**: [arunkumawatak.github.io/react_portfolio](https://arunkumawatak.github.io/react_portfolio)
 - **LinkedIn**: [linkedin.com/in/arun-kumawat-28bb86267](https://www.linkedin.com/in/arun-kumawat-28bb86267/)
