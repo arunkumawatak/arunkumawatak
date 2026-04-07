@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="![WhatsApp Image 2026-04-07 at 11 55 00 PM](https://github.com/user-attachments/assets/cfb97a37-5722-487c-80eb-45ec3b5b5186)" alt="Arun Kumawat" width="200" style="border-radius: 50%;"/>
+  <!-- Profile Picture - Replace with your own image URL -->
+  <img src="https://github.com/user-attachments/assets/cfb97a37-5722-487c-80eb-45ec3b5b5186" 
+       alt="Arun Kumawat" 
+       width="200" 
+       style="border-radius: 50%;"/>
 
   <h1>Hi there, I'm Arun Kumawat 👋</h1>
 
@@ -57,7 +61,7 @@ Currently focused on delivering **high-quality, maintainable code** that drives 
 
 ### 📂 Featured Projects
 
-- **[react_portfolio](https://github.com/arunkumawatak/react_portfolio)** — Modern React + TypeScript portfolio with detailed case studies (Problem → Solution → Impact)  
+- **[react_portfolio](https://github.com/arunkumawatak/react_portfolio)** — Modern React + TypeScript portfolio with detailed case studies  
 - **ConsultKiya** — Legal-tech dual app with video calling & in-app payments  
 - **Nway HRMS** — Enterprise HR solution with GPS geofencing and attendance system  
 - **DawaBajar** — B2B pharma platform with bulk ordering and real-time inventory  
