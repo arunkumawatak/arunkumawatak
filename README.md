@@ -8,11 +8,11 @@
   <h1>Hi there, I'm Arun Kumawat 👋</h1>
 
   <p>
-    <strong>Flutter Product Engineer</strong> | Passionate about building scalable, production-ready mobile applications
+    <strong>Flutter Product Engineer</strong> | Building scalable, production-ready mobile applications
   </p>
 
   <p>
-    Turning ideas into high-quality cross-platform apps with clean architecture, beautiful UI, and real business impact.
+    Turning ideas into high-quality cross-platform apps with clean architecture, performance focus, and real business impact.
   </p>
 
   <a href="https://arunkumawatak.github.io/react_portfolio" target="_blank">
@@ -31,61 +31,56 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Flutter Developer** with hands-on experience shipping **15+ production mobile apps** in different domains:
+I'm a passionate Flutter Developer with experience shipping 15+ production mobile apps across multiple industries:
 
-- **Legal-Tech** — ConsultKiya (video calling + payments)
-- **HR & Enterprise** — Nway HRMS (GPS attendance system)
-- **Pharma B2B** — DawaBajar (bulk ordering + inventory)
-- **Agri-Tech E-commerce** — Green Chopper
-- **Education SaaS** — EduSmart
+- Legal-Tech (ConsultKiya)
+- HR & Enterprise (Nway HRMS)
+- Pharma & B2B (DawaBajar)
+- Agri-Tech E-commerce (Green Chopper)
+- Education SaaS (EduSmart)
 
-I love owning the complete product lifecycle — from understanding requirements to deploying on the Play Store.
-
-Currently focused on **clean architecture**, performance optimization, and delivering maintainable code.
+I specialize in scalable architectures, complex features like WebRTC, payments, GPS, real-time sync, and own the full product lifecycle from requirements to Play Store deployment.
 
 ### 🛠️ Tech Stack
 
-**Mobile Development**  
+**Mobile**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-**Frontend & Portfolio**  
+**Frontend / Portfolio**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend & Tools**  
+**Tools & Others**  
 Firebase • REST APIs • WebRTC • Payment Gateways (Cashfree, Razorpay) • Git • CI/CD  
-State Management: Provider, Riverpod, Bloc • Clean Architecture • Responsive Design
+State Management (Provider, Riverpod, Bloc) • Clean Architecture • Responsive Design
 
 ### 📂 Featured Projects
 
 - **[react_portfolio](https://github.com/arunkumawatak/react_portfolio)** — Modern React + TypeScript portfolio with detailed case studies
-- **ConsultKiya** — Legal-tech app with real-time video calling and payments
-- **Nway HRMS** — Enterprise HR solution with geofencing attendance
-- **DawaBajar** — B2B pharma platform with real-time inventory
+- **ConsultKiya** — Legal-tech dual app with video calling and in-app payments
+- **Nway HRMS** — Enterprise HR solution with GPS geofencing and attendance system
+- **DawaBajar** — B2B pharma platform with bulk ordering and real-time inventory
 
-→ Check all case studies on my **[Portfolio](https://arunkumawatak.github.io/react_portfolio)**
+Check out my **[full portfolio](https://arunkumawatak.github.io/react_portfolio)** for in-depth case studies.
 
 ### 📈 GitHub Stats & Trophies
 
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arunkumawatak&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunkumawatak&theme=github_dark" alt="Top Languages" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=arunkumawatak&theme=dracula&row=1&column=6" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arunkumawatak&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arunkumawatak&theme=github_dark&hide_border=true&hide=C%2B%2B" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arunkumawatak&theme=dracula&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 **Current Activity (April 2026):**  
-Actively improving my React portfolio (19+ commits) and working on new Flutter features.
+Actively working on react_portfolio and improving Flutter projects.
 
 ---
 
 ### 🌟 Let's Connect
 
-I'm open to exciting opportunities, collaborations, or casual tech chats.
+I'm always open to new opportunities, collaborations, or tech discussions.
 
 - **Portfolio**: https://arunkumawatak.github.io/react_portfolio
 - **LinkedIn**: https://www.linkedin.com/in/arun-kumawat-28bb86267/
@@ -94,6 +89,6 @@ I'm open to exciting opportunities, collaborations, or casual tech chats.
 ---
 
 <div align="center">
-  <p>Thanks for stopping by! ✨</p>
+  <p>Thanks for visiting! ✨</p>
   <p>Made with ❤️ using Flutter & React</p>
 </div>
