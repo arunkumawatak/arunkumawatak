@@ -1,9 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/cfb97a37-5722-487c-80eb-45ec3b5b5186" 
-       alt="Arun Kumawat" 
-       width="220" 
-       style="border-radius: 50%; border: 4px solid #FF6B00;"/>
+ 
 
   <h1>Hi there, I'm Arun Kumawat 👋</h1>
 
